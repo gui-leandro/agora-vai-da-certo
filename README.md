@@ -1,7 +1,7 @@
 # Ecoleta
 Projeto desenvolvido durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/)
 
-## Sobre o projeto
+## :bookmark: Sobre o projeto
 Um sistema para cadastro de pontos de coleta de itens como baterias, eletrônicos, lâmpadas, óleo de cozinha, materiais orgânicos, papéis e papelão. O sistema possui Front-end, Back-end e aplicativo mobile, o cadastro de pontos é feito através da plataforma web.
 
 ### :heavy_check_mark: Resultado Web:
